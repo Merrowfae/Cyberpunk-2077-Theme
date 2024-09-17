@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "merrow0812",
+        "name": "Cyberpunk 2077",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/github.com\/Merrowfae\/Cyberpunk-2077-Theme\/raw\/main\/862224-1967364593.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/github.com\/Merrowfae\/Cyberpunk-2077-Theme\/raw\/main\/Rajdhani-Regular.ttf"
+    },
+    "simple_colors": {
+        "background": -16777216,
+        "input_background": -16777216,
+        "background_secondary": -16777216,
+        "accent": -16717569
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
